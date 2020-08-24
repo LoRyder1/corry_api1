@@ -3,7 +3,7 @@ class Api::V1::FactsController < ApplicationController
 
   # GET /users
   def index
-    @users = Fact.all
+    @facts = Fact.all
     render json: @facts
   end
 
