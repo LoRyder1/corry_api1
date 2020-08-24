@@ -1,7 +1,6 @@
-# corry_api1
-testing 123
-=======
 # README
+
+## corry_api
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
